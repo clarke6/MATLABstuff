@@ -1,0 +1,20 @@
+Homework 3: Results
+Voltage and current phasors as measured by the relay
+Va = 30.7745 V /angle 17.1457 deg
+Vb = 66.5547 V /angle -102.8723 deg
+Vc = 65.7452 V /angle 136.8331 deg
+Ia = 33.6722 A /angle -69.4146 deg
+Ib = 0.18672 A /angle -19.9806 deg
+Ic = 0.20466 A /angle -130.1394 deg
+These results must be compared with the results obtained with
+a traditional fault calculation...
+ 
+The results using traditional fault calculations
+and neglecting capacitances are as follows...
+ 
+Var = 30.8226 V /angle 0.10973 deg
+Vbr = 66.3953 V /angle -120 deg
+Vcr = 66.3953 V /angle 120 deg
+Iar = 33.7579 A /angle -86.281 deg
+Ibr = 2.9296e-15 A /angle 14.0362 deg
+Icr = 2.9296e-15 A /angle 14.0362 deg
